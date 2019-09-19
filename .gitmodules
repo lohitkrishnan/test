@@ -1,0 +1,3 @@
+[submodule "depends/cpr"]
+	path = depends/cpr
+	url = https://github.com/whoshuu/cpr.git
